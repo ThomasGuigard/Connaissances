@@ -2,10 +2,16 @@
 Qu'est ce qu'un bean
 --------------------------
 
-Définition
+Un bean est une composant principale de Spring, généralement c'est un singleton. Celui-ci est géré par Spring.
 
-Cycle de vie
+Lors du démarrage d'une application Spring, un scan est effectué pour trouver tous les bean à instancier. Ceux-ci "meurent" en général lorsque l'application s'arrête.
 
+Sinon son cycle de vie est le suivant :
+- Instanciation
+- Configuration
+- Initialisation
+- Utilisation
+- Destruction
 
 Design Patterns
 --------------------------

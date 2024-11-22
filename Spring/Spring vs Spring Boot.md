@@ -1,0 +1,2 @@
+- Spring : Framework pour développer des applications d'entreprise. Beaucoup de configuration de base est demandée comme notamment pour la définition des beans. Pas de serveur web par défaut
+- Spring Boot : Basé sur Spring permet de simplifier la configuration et de fournir des conventions par défaut pour accélérer le développement grâce a Spring Boot Starter et Spring Boot Autoconfiguration. Serveur Web par défaut
