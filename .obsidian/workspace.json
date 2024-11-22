@@ -1,0 +1,307 @@
+{
+  "main": {
+    "id": "dc49c6f757069855",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebfea0a881e5edb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca4278a78893a189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript Hoisting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Hoisting"
+            }
+          },
+          {
+            "id": "09aa7e60796a0bd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript Closure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Closure"
+            }
+          },
+          {
+            "id": "3a4190dce2871c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Virtual DOM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Virtual DOM"
+            }
+          },
+          {
+            "id": "2faea9b82cc05a1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript Hoisting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Hoisting"
+            }
+          },
+          {
+            "id": "58c6f1c4673d760c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Spring Boot Web.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spring Boot Web"
+            }
+          },
+          {
+            "id": "3e6141d08f640650",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/JUnit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JUnit"
+            }
+          },
+          {
+            "id": "5fbd2ae5169e9595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Librairies de test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Librairies de test"
+            }
+          },
+          {
+            "id": "6ace757cd785ec98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/Closure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Closure"
+            }
+          },
+          {
+            "id": "c0860e98ffb23aef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Spring.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spring"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f60f3228c9adbfe2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5ef60a3b11efa9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "679ebd6b9967b21a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "673b65d4246a824b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0b000a382b3ab342",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41776b9dc8156da4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa3eed25246a1cb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7a0e0dd95c87afb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "858190869fce4cfc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0ccdcf3a21e39e87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "24927192e127d69d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c0860e98ffb23aef",
+  "lastOpenFiles": [
+    "Nouveau Document texte.txt",
+    "Spring/Dépendances spécifiques.md",
+    "Spring/Gestion des exceptions.md",
+    "Spring/Spring Boot Web.md",
+    "Spring/Spring vs Spring Boot.md",
+    "JavaScript/Hoisting.md",
+    "JavaScript/Event loop.md",
+    "JavaScript/Temporal Dead Zone.md",
+    "Java/Exceptions.md",
+    "Java",
+    "Spring/Spring.md",
+    "Spring/Untitled.md",
+    "Testing/Tester  l'intégration à une BDD.md",
+    "DOM/Virtual DOM.md",
+    "DOM",
+    "JavaScript/Closure.md",
+    "DOM/Shadow  DOM.md",
+    "API/Common knowledge.md",
+    "JavaScript",
+    "API/REST.md",
+    "Testing/Cucumber.md",
+    "Testing/Types de test.md",
+    "Testing/Mockito.md",
+    "Testing/JUnit.md",
+    "Testing/Librairies de test.md",
+    "API",
+    "Java",
+    "Testing/Untitled",
+    "Testing",
+    "Spring"
+  ]
+}

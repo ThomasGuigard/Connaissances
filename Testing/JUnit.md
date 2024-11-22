@@ -1,0 +1,3 @@
+Comment tester les exceptions
+--------------------------
+
